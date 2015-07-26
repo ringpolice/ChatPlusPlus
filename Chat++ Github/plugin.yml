@@ -1,0 +1,8 @@
+name: ChatPlusPlus
+main: eu.Dyl4n.Chat.Chat
+version: 1.0
+author: JiNJaProductionz
+
+commands:
+  chat:
+    description: Main Commands for ChatPlusPlus

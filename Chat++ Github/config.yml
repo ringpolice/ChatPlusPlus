@@ -1,0 +1,12 @@
+Usage: "&e/Chat <Clear/Toggle>"
+ChatClear_Message: "&eChat has been cleared by {PLAYER}"
+ReloadMessage: "&eChat++ has been reloaded!"
+NoPermissionsMessage: "&eChat has been cleared by {PLAYER}"
+ChatMutedMessage: "&eChat is currently muted!"
+ChatClear_BlankSpaces: 100
+ChatToggleMutedMessage: "&eChat has been muted by {PLAYER}"
+ChatToggleUnmutedMessage: "&eChat has been unmuted by {PLAYER}"
+
+ChatClearPermission: "chat.clear"
+ChatTogglePermission: "chat.toggle"
+ChatBypassPermission: "chat.bypass"
